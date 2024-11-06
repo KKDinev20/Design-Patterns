@@ -12,3 +12,12 @@
 </p>
 <p>Use case: Situations where multiple objects may handle a request, such as support ticket levels (basic, advanced, expert), logging with different levels (info, warning, error), or validation chains.
 </p>
+<br>
+
+
+# 3. Factory Pattern
+## Theory
+<p>The Factory Pattern is a creational pattern that provides an interface for creating objects but allows subclasses to alter the type of objects that will be created. It abstracts the object creation process and decouples the client code from the instantiation logic.
+</p>
+<p>Use case: Situations where the exact type of object isn’t known until runtime, such as database connections, shape creation in graphics applications, or notifications.
+</p>
