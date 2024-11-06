@@ -21,3 +21,10 @@
 </p>
 <p>Use case: Situations where the exact type of object isn’t known until runtime, such as database connections, shape creation in graphics applications, or notifications.
 </p>
+
+# 4. Builder Pattern
+## Theory
+<p>The Builder Pattern is used to construct complex objects step by step. It separates the construction of a complex object from its representation, allowing different representations to be created with the same construction process.
+</p>
+<p>Use case: When creating objects with complex structures or configurations, like building a computer with various components or creating a custom configuration for an application.
+</p>
